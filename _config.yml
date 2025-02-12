@@ -1,0 +1,17 @@
+title: Andrei Polukhin's blog
+email: andrei.polukhin.blog@gmail.com
+description: |-
+  Andrei is a philosopher in mind and a romantic in heart.
+  He shares his experience coming from Ukraine and settling in Vienna,
+  working as a software engineer and undergoing psychoanalysis. He thinks about life
+  and is unabashedly honest with his readers. Enjoy ;)
+
+baseurl: ""
+url: "andrei-polukhin.github.io"
+
+github_username: andrei-polukhin
+
+theme: minima
+plugins:
+  - jekyll-feed
+
