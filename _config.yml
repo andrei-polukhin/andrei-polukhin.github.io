@@ -12,5 +12,6 @@ url: "andrei-polukhin.github.io"
 github_username: andrei-polukhin
 
 theme: minima
+favicon: "/assets/images/favicon.ico"
 plugins:
   - jekyll-feed
