@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hiya! My name is Andrei Polukhin and this blog is about ... me :D
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I want to tell my readers different sides of being a human, as emotional,
+intellectual and conflicted as I am. I was born in Kyiv and had to leave my
+country due to the war, finally finding my new home in Vienna.
+I have been working as a software engineer since 17 yo, but I have realised
+that I am more interested in people than computers, so I have decided to undergo psychoanalysis.
+My posts will show the conclusions from this journey towards and inside of myself.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am alike all of us, and I want to show it. My posts will give the reader a deep look into my soul.
+We can start our acquaintanceship with this quote:
 
-
-[jekyll-organization]: https://github.com/jekyll
+> "It is a joy to be hidden and a disaster not to be found." - Donald Winnicott.
