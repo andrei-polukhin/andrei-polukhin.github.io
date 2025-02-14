@@ -11,6 +11,8 @@ url: "andrei-polukhin.github.io"
 
 github_username: andrei-polukhin
 linkedin_username: andrei-polukhin
+disqus:
+  shortname: andrei-polukhin
 
 theme: minima
 favicon: "/assets/images/favicon.ico"
