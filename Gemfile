@@ -37,3 +37,6 @@ gem "webrick", "~> 1.9"
 
 # Needed for SEO.
 gem "jekyll-seo-tag"
+
+# Needed to generate a sitemap for Google Search.
+gem "jekyll-sitemap"
