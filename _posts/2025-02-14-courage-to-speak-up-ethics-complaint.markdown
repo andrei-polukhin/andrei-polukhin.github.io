@@ -51,7 +51,7 @@ I could not be natural in all the rawness of my anxiety either. I remember once 
 10 minutes earlier and staying in the waiting room. Its dim lighting and comfortable chairs would have relaxed me
 had I not been surprised by the footsteps of her colleague. The next session, she asked me to come
 on my time sharp so as not to scare people with ... me being scared? "You are not accepted here either" —
-what an ultimate message, yet I took it with stoicism.
+what an implicit emotional message, yet I took it with stoicism.
 
 Relationship with a mental health professional is transactional at its core:
 a patient pays for the corrective emotional experience with their psychoanalyst.
