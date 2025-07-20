@@ -25,7 +25,7 @@ with my parents. I still often adjust to them — in my inner world.
 My day-to-day life sometimes feels like a fight with paranoia. When attending an A1.1
 German course in the best language school in Vienna, I felt primal fear at *mein Lehrer*'s gaze:
 one mistake — and I get beaten. Old wounds don't care about new contexts. My eye twitched,
-my shoulders shook — *Verhandlung mit meine Paranoia*:
+my shoulders shook — *Verhandlung mit meiner Paranoia*:
 > A: I can walk away. This isn't childhood.    
 > P: Aber das Leiden ist deine Muttersprache! Du hast viel Spaß, oder?    
 > A: Nein!
